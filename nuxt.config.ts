@@ -1,5 +1,5 @@
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
   modules: ['@nuxt/content'],
- css: ["@picocss/pico/css/pico.min.css"],
+ css: ["@picocss/pico/css/pico.min.css", "assets/css/custom.css"],
 })

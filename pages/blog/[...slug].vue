@@ -2,8 +2,8 @@
   <main>
     <ContentDoc>
       <template #not-found>
-        <h1>Document cannot be found</h1>
+        <h1>Blog post cannot be found</h1>
       </template>
-    </ContentDoc> 
+    </ContentDoc>
   </main>
 </template>
