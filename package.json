@@ -9,11 +9,12 @@
   },
   "devDependencies": {
     "@nuxt/content": "^2.3.0",
-    
     "nuxt": "^3.0.0",
-    "typescript":"^4.9.4" 
+    "typescript": "^4.9.4"
   },
   "dependencies": {
-    "@picocss/pico": "picocss/pico"
+    "@nuxt/image-edge": "^1.0.0-27840416.dc1ed65",
+    "@picocss/pico": "picocss/pico",
+    "dayjs": "^1.11.7"
   }
 }

@@ -12,7 +12,7 @@ const app = useAppConfig() as AppConfigInput
         </div>
         <div class="">
           Copyright © 2022 <a :href="app.author.link">{{ app.author.name }}</a
-          >. All rights reserved. Made with <span>❤</span>
+          >. All rights reserved. Made with <span>❤ ☕ and 🍰</span>
           <div class="">
             <span class="">
               design by <a :href="app.author.link">{{ app.author.name }}</a>
